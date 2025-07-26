@@ -40,7 +40,7 @@ Each lab is located in its own folder and includes:
 
 > These will be updated as each lab is completed:
 
-- [PowerShell Exploitation & Exfiltration Lab](./powershell-exfiltration-lab)
+- [PowerShell Exploitation & Exfiltration Lab](https://github.com/GScalzo21/Microsoft-SC200-Labs/blob/GScalzo21/PowerShell-Recon-and-Data-Exfiltration-to-Azure-Blob–Microsoft-Defender-XDR-Lab.md)
 - *(More labs coming soon...)*
 
 ---
