@@ -40,6 +40,7 @@ Each lab is located in its own folder and includes:
 
 > These will be updated as each lab is completed:
 
+- [Deploy Microsoft Defender for Endpoint](https://github.com/GScalzo21/Microsoft-SC200-Labs/blob/GScalzo21/Deploy-Microsoft-Defender-for-Endpoint.md) - July 26th,2025
 - [PowerShell Exploitation & Exfiltration Lab](https://github.com/GScalzo21/Microsoft-SC200-Labs/blob/GScalzo21/PowerShell-Recon-and-Data-Exfiltration-to-Azure-Blob–Microsoft-Defender-XDR-Lab.md)
 - *(More labs coming soon...)*
 
