@@ -4,6 +4,8 @@
 ## Overview
 
 This hands-on exercise focused on deploying Microsoft Defender for Endpoint (MDE) to strengthen security visibility, improve response capabilities, and implement structured device grouping. The goal was to onboard devices, configure access roles, and prepare the Defender XDR environment for operational readiness in a realistic enterprise setting.
+<img width="1352" height="575" alt="Screenshot 2025-07-26 at 8 27 08 PM" src="https://github.com/user-attachments/assets/e706a8e3-1c62-4d19-8a2b-7b1f7770e35c" />
+
 
 ## Scenario
 
